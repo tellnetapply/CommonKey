@@ -1,2 +1,2 @@
 # CommonKey
-Visual universal button recognition processing automatic code generation tool
+Universal button recognition processing automatic code generation tool with GUI
