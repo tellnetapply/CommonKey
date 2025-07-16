@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC\\CommonKey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27DD9643-ABCF-4F43-8718-51B498D43E84}|CommonKey\\CommonKey.csproj|d:\\pc\\commonkey\\commonkey\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DD9643-ABCF-4F43-8718-51B498D43E84}|CommonKey\\CommonKey.csproj|solutionrelative:commonkey\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DD9643-ABCF-4F43-8718-51B498D43E84}|CommonKey\\CommonKey.csproj|D:\\PC\\CommonKey\\commonkey\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27DD9643-ABCF-4F43-8718-51B498D43E84}|CommonKey\\CommonKey.csproj|solutionrelative:commonkey\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\PC\\CommonKey\\CommonKey\\MainForm.cs",
+              "RelativeDocumentMoniker": "CommonKey\\MainForm.cs",
+              "ToolTip": "D:\\PC\\CommonKey\\CommonKey\\MainForm.cs*",
+              "RelativeToolTip": "CommonKey\\MainForm.cs*",
+              "ViewState": "AgIAAC8DAAAAAAAAAAD4vwMEAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:35:11.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\PC\\CommonKey\\CommonKey\\MainForm.cs",
+              "RelativeDocumentMoniker": "CommonKey\\MainForm.cs",
+              "ToolTip": "D:\\PC\\CommonKey\\CommonKey\\MainForm.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "CommonKey\\MainForm.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:33:49.318Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
